@@ -1,0 +1,3 @@
+Entity Framework (EF) Core Migrations
+-> provides a way to incrementally update the database schema to 
+keep it in sync with the applications data model while preserving the existing data in the database.
